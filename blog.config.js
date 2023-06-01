@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Vince's blog',
+  title: 'Vince’s blog',
   author: 'Vince BAT',
   email: 'miao.vince.bi@medor.ca',
   link: 'https://vincebat.medor.ca',
