@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'Vince Bat',
   author: 'Vince BAT',
   email: 'miao.vince.bi@medor.ca',
   link: 'https://vincebat.medor.ca',
