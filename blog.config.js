@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Vince’s blog',
-  author: 'Vince BAT',
-  email: 'miao.vince.bi@medor.ca',
+  author: 'Vince Bat',
+  email: 'vince.bat@medor.ca',
   link: 'https://vincebat.medor.ca',
   description: 'This is Vince’s personal blog website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
